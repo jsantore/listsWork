@@ -20,8 +20,8 @@ def main():
         split_line = line.split(':')
         size = int(split_line[1])
         this_color = random.choice(our_colors)
-        rectangle = arcade.create_rectangle(x_loc,y_loc,75, size*2,this_color)
-        rectangle.draw()
+        block = arcade.create_rectangle(x_loc,y_loc,75, size*2,this_color)
+        block.draw()
         x_loc = x_loc+75
 
 

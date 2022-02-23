@@ -1,0 +1,7 @@
+Comp151 Class
+Week1:50
+Week2:90
+Week3:200
+Week4:100
+Week5:120
+Week6:70
